@@ -63,7 +63,7 @@ Used Logistic Regression for prediction and Power BI to show everything in a cle
 └── README.md
 ```
 ## Open file
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uml-by-yash/Employee-attrition-analysis/blob/main/notebooks/Employee_attrition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uml-by-yash/Employee-attrition-analysis/blob/main/Notebook/Employee_attrition_analysis.ipynb)
 ---
 
 Made by Yash Patel
