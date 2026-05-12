@@ -67,4 +67,4 @@ Used Logistic Regression for prediction and Power BI to show everything in a cle
 ---
 
 Made by Yash Patel
-B.E. IT — LDRP-ITR, KSV (2025-26)
+B.E. IT — LDRP-ITR, KSV (2026-27)
