@@ -59,7 +59,7 @@ Used Logistic Regression for prediction and Power BI to show everything in a cle
 
 ```
 ├── notebooks/        --> colab notebook
-├── dashboard/        --> power bi dashboard file
+├── dashboard/        --> power bi dashboard
 └── README.md
 ```
 ## Open google collab file
